@@ -1,0 +1,1 @@
+const selectCountry = 'Select a country';
