@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:my_vpn/common_widget/customText.dart';
+import 'package:my_vpn/common_widgets/customText.dart';
 import 'package:my_vpn/const/images.dart';
 import 'package:my_vpn/const/strings.dart';
 import 'package:velocity_x/velocity_x.dart';
+
+import '../../common_widgets/customText.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});

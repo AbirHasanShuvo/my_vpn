@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:lottie/lottie.dart';
-import 'package:my_vpn/common_widget/customText.dart';
+import 'package:my_vpn/common_widgets/customText.dart';
 import 'package:my_vpn/const/screen.dart';
 import 'package:my_vpn/const/strings.dart';
 import 'package:my_vpn/views/home_screen/home_screen.dart';
