@@ -3,6 +3,13 @@ class Assets {
   Assets._();
 
   static const String iconsCountries = 'assets/icons/countries.png';
+  static const String iconsDownload = 'assets/icons/download.png';
+  static const String iconsMap = 'assets/icons/map.png';
+  static const String iconsPing = 'assets/icons/ping.png';
+  static const String iconsPower = 'assets/icons/power.png';
   static const String iconsTap = 'assets/icons/tap.png';
+  static const String iconsUp = 'assets/icons/up.png';
+  static const String lottieAnimated = 'assets/lottie/animated.json';
+  static const String lottieVpnAnimation = 'assets/lottie/vpn_animation.json';
 
 }
