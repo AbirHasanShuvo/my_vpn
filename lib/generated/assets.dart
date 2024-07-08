@@ -25,5 +25,6 @@ class Assets {
   static const String modelsVpnInfo = 'lib/models/vpn_info.dart';
   static const String modelsVpnStatus = 'lib/models/vpn_status.dart';
   static const String splashScreenSplashScreen = 'lib/splash_screen/splash_screen.dart';
+  static const String vpnEngineVpnEngine = 'lib/vpn_engine/vpn_engine.dart';
 
 }
