@@ -2,6 +2,15 @@
 class Assets {
   Assets._();
 
+  static const String appPreferencesAppPreferences = 'lib/views/app_preferences/app_preferences.dart';
+  static const String commonWidgetsCustomButton = 'lib/common_widgets/custom_button.dart';
+  static const String commonWidgetsCustomText = 'lib/common_widgets/customText.dart';
+  static const String constImages = 'lib/const/images.dart';
+  static const String constScreen = 'lib/const/screen.dart';
+  static const String constStrings = 'lib/const/strings.dart';
+  static const String controllersHomeController = 'lib/controllers/home_controller.dart';
+  static const String generatedAssets = 'lib/generated/assets.dart';
+  static const String homeScreenHomeScreen = 'lib/views/home_screen/home_screen.dart';
   static const String iconsCountries = 'assets/icons/countries.png';
   static const String iconsDownload = 'assets/icons/download.png';
   static const String iconsMap = 'assets/icons/map.png';
@@ -9,7 +18,12 @@ class Assets {
   static const String iconsPower = 'assets/icons/power.png';
   static const String iconsTap = 'assets/icons/tap.png';
   static const String iconsUp = 'assets/icons/up.png';
+  static const String libMain = 'lib/main.dart';
   static const String lottieAnimated = 'assets/lottie/animated.json';
   static const String lottieVpnAnimation = 'assets/lottie/vpn_animation.json';
+  static const String modelsVpnConfiguration = 'lib/models/vpn_configuration.dart';
+  static const String modelsVpnInfo = 'lib/models/vpn_info.dart';
+  static const String modelsVpnStatus = 'lib/models/vpn_status.dart';
+  static const String splashScreenSplashScreen = 'lib/splash_screen/splash_screen.dart';
 
 }

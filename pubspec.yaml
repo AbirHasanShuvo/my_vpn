@@ -68,6 +68,17 @@ flutter:
   assets:
     - assets/icons/
     - assets/lottie/
+    - lib/
+    - lib/const/
+    - lib/views/
+    - lib/views/apply/
+    - lib/views/home_screen/
+    - lib/views/app_preferences/
+    - lib/models/
+    - lib/generated/
+    - lib/controllers/
+    - lib/splash_screen/
+    - lib/common_widgets/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
